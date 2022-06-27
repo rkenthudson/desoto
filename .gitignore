@@ -1,0 +1,6 @@
+build/*
+dist/*
+*.log
+venv/*
+folderlist.spec
+db/*
